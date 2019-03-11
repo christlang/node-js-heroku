@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "test app",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "node-js-heroku",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
