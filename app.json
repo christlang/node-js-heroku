@@ -9,6 +9,10 @@
   "env": {
   },
   "formation": {
+    "web": {
+      "quantity": 2,
+      "size": "free"
+    }
   },
   "name": "node-js-heroku",
   "scripts": {
