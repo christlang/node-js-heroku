@@ -17,5 +17,7 @@
   "name": "node-js-heroku",
   "scripts": {
   },
-  "stack": "heroku-18"
+  "stack": "heroku-18",
+  "success_url": "https://synyx.github.io/urlaubsverwaltung-landingpage/",
+  "website": "https://synyx.github.io/urlaubsverwaltung-landingpage/"
 }
