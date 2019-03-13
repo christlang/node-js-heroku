@@ -18,6 +18,6 @@
   "scripts": {
   },
   "stack": "heroku-18",
-  "success_url": "https://synyx.github.io/urlaubsverwaltung-landingpage/",
+  "success_url": "/test",
   "website": "https://synyx.github.io/urlaubsverwaltung-landingpage/"
 }
